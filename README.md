@@ -1,6 +1,6 @@
-# CS 181 Lab Assignment 0 - Getting Started
+# CPSC 181 Lab Assignment 0 - Getting Started
 
-**Due:** Wednesday, January 10, 2024
+**Due:** Wednesday, January 17, 2024
 
 **Sample Solution Length:** 35 Lines
 
