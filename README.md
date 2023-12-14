@@ -2,7 +2,7 @@
 
 **Due:** Wednesday, January 17, 2024
 
-**Sample Solution Length:** 35 Lines
+**Sample Solution Length:** 47 Lines
 
 ## Individual Work
 
