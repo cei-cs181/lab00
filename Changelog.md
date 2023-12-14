@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v1.0.1-S2024]
+
+### Fixed
+
+- Made minor changes to correct README
+
 ## [v1.0.0]
 
 ### Added
@@ -14,4 +20,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial project description in the README, and the base code.
 - Included the .gitignore and LICENSE for the repo
 
-[unreleased]: https://github.com/cei-cs181/lab00/compare/v1.0.0...HEAD
+[unreleased]: https://github.com/cei-cs181/lab00/compare/v1.0.1-S2024...HEAD
+[v1.0.1-S2024]: https://github.com/cei-cs181/lab00/compare/v1.0.0...v1.0.1-S2024
+[v1.0.0]: https;//github.com/cei-cs181/lab00/releases/tag/v1.0.0
