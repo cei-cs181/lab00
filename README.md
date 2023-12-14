@@ -31,7 +31,7 @@ Write a Python turtle graphics program that draws a simple, approximate version 
 - 0 points - If you are having trouble installing Python, git, and PyCharm, contact me via email or through the discord server and we'll work to resolve your issues.
 - 3 points - Canvas contains a recognizable photo.
   (Partial credit: 1 point for replacing the BrightSpace default photo with anything, 2 points for showing a photo with multiple people.)
-- 2 points - A Python program named `YourFirstName-YourLastName-Lab1.py` is submitted to the Canvas Lab 00 Dropbox no later than 11:59 p.m. of the Due Date.
+- 2 points - A Python program named `YourFirstName-YourLastName-Lab0.py` is submitted to the Canvas Lab 00 Dropbox no later than 11:59 p.m. of the Due Date.
 - 3 points - The Python program produces an appropriate drawing.
 
 ## Grading Turnaround
