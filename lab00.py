@@ -1,5 +1,5 @@
 # ---------------------------------------
-# CS 181, Introduction to Programming
+# CPSC 181, Introduction to Programming
 # Lab 0: Getting Started
 #
 # Name: 
