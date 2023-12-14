@@ -7,14 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v1.0.0]
+
 ### Added
 
 - Initial project description in the README, and the base code.
+- Included the .gitignore and LICENSE for the repo
 
-### Fixed
-
-### Changed
-
-### Removed
-
-[unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.1.1...HEAD
+[unreleased]: https://github.com/cei-cs181/lab00/compare/v1.0.0...HEAD
