@@ -16,7 +16,7 @@ Late assignments will not be accepted.
 
 **Submission Instructions:** Upload your solution, entitled `YourFirstName-YourLastName-Lab0.py` to the Canvas Lab 0 Dropbox.
 
-**Deadline Reminder:** Once this deadline passes, BrightSpace will no longer accept your Python submission and you will no longer be able to earn credit. Thus, if you are not able to fully complete the assignment, submit whatever you have before the deadline so that partial credit can be earned.
+**Deadline Reminder:** Once this deadline passes, Canvas will no longer accept your Python submission and you will no longer be able to earn credit. Thus, if you are not able to fully complete the assignment, submit whatever you have before the deadline so that partial credit can be earned.
 
 ## Learning Outcomes
 
